@@ -38,6 +38,7 @@ h2{
 .generator {
     background-color: #FFB4A2;
     margin: 10px;
+    padding: 10px;
     max-width: 50%;
     min-height: 150px;
 }
